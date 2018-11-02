@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "CodingNaija",
+    "description": "",
+    "home_page_url": "https://areahints.github.io/codingnaija",
+    "feed_url": "https://areahints.github.io/codingnaija/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "ProgrammerX"
+    },
+    "items": [
+    ]
+}
